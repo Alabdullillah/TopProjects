@@ -85,8 +85,8 @@ body{
     font-weight:1000;
 }
 .placeholderimg {
-    width: 500px;
-    height: 300px;
+    width: 714px;
+    height: 400px;
     padding: 40px;
 }
 .button {
@@ -117,7 +117,7 @@ body{
 }
 .s2img {
     width: auto;
-    height: 400px;
+    height: 500px;
     border-radius: 8px;
     margin: 18px;
     justify-content: center;
