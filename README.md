@@ -1,3 +1,3 @@
 # TopProjects
 
-Some project made throught the odin project foundations course
+Some projects made throught the odin project foundations course
